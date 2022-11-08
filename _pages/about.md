@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -16,4 +16,4 @@ If this sounds interesting to you, feel free to reach out to discuss my research
 
 ## About me
 
-In my spare time, I do amateur photography (you can see a few samples [here](https://fgaudilliere.github.io/photography/)). I also play the violin (and sometimes the saxophone, much to my neighbour's dismay) and watch a lot of movies. 
+In my spare time, I do amateur photography (you can see a few samples [here](https://fgaudilliere.github.io/photography/)). I also play the violin (and sometimes the saxophone, much to my neighbour's dismay) and watch a lot of movies (not always good ones).
