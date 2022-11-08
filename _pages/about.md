@@ -16,8 +16,12 @@ I'm supervised by Ivan Junier and Thomas Hindré: Ivan is a biophysicist and is 
 
 If this sounds interesting to you, feel free to reach out to discuss my research!
 
-![Here is an overview of the distribution of IS across prokaryotic genomes.](/images/full_tree_digIS_data_low_res.png)
+![](/images/full_tree_digIS_data_low_res.png)
+
+The image above is the distribution of various IS families across prokaryotic genomes.
 
 ## About me
 
 In my spare time, I do amateur photography (you can see a few samples [here](https://fgaudilliere.github.io/photography/)). I also play the violin (and sometimes the saxophone, much to my neighbour's dismay) and watch a lot of movies (not always good ones).
+
+![](/images/cute_IS.jpg)
