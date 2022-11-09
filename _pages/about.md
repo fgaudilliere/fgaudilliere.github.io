@@ -25,4 +25,4 @@ The image above shows the distribution of various IS families across prokaryotic
 
 In my spare time, I do amateur photography (you can see a few samples [here](https://fgaudilliere.github.io/photography/)). I also play the violin (and sometimes the saxophone, much to my neighbour's dismay) and watch a lot of movies (not always good ones).
 
-![](/images/cute_IS.jpg)
+![](/images/doodle.png)

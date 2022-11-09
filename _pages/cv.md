@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* **Msc in Biological Sciences** with a specialization in Complex Systems · ENS de Lyon · 2019-2021
-* **Bsc in Biological Sciences** · ENS de Lyon · 2018-2019
+* **MSc in Biological Sciences** with a specialization in Complex Systems · ENS de Lyon · 2019-2021
+* **BSc in Biological Sciences** · ENS de Lyon · 2018-2019
 * French preparatory class (BCPST) · Lycée Henri IV, Paris · 2016-2018
 
 Lab experience
