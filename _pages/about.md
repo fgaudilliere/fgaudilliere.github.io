@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -11,14 +11,15 @@ redirect_from:
 
 ## About my research
 
-I am a first-year PhD student in the TrEE team at TIMC in Grenoble (France). My research focuses on **insertion sequences** (IS), which are the smallest prokaryotic transposable elements: I'm interested in how their movement contributes to **prokaryotic genome evolution and adaptation**. I combine wet lab with dry lab approaches: at the bench, I try to determine **how selection filters IS insertions** on a short timescale. At my computer, I analyze the **distribution of IS** in a wide range of prokaryotic genomes, and I try to model that distribution to see what factors influence the evolutionary dynamics of IS elements.
-I'm supervised by Ivan Junier and Thomas Hindré: Ivan is a biophysicist and is mostly in charge of correcting my modeling and coding mistakes, and Thomas is a microbiologist who helps me design and carry out my wet lab experiments. Sophie Abby also occasionally helps me out when I need to deal with a problem related to prokaryotic phylogeny.
+I am a first-year PhD student in the TrEE team at TIMC in Grenoble (France). My research focuses on **insertion sequences** (IS), which are the simplest class of prokaryotic transposable elements: they only code for a transposase, the enzyme that catalyzes their movement within genomes. I'm interested in how their movement contributes to **prokaryotic genome evolution and adaptation**. I combine wet lab with dry lab approaches: at the bench, I try to determine **how selection filters IS insertions** on a short timescale. At my computer, I analyze the **distribution of IS** in a wide range of prokaryotic genomes to explore IS dynamics on a longer timescale. I try to model that distribution to see what factors influence the evolutionary dynamics of IS elements.
+
+I'm supervised by **Ivan Junier** and **Thomas Hindré**: Ivan is a biophysicist and is mostly in charge of correcting my modeling and coding mistakes, and Thomas is a microbiologist who helps me design and carry out my wet lab experiments. **Sophie Abby** also occasionally helps me out when I need to deal with a problem related to prokaryotic phylogeny.
 
 If this sounds interesting to you, feel free to reach out to discuss my research!
 
 ![](/images/full_tree_digIS_data_low_res.png)
 
-The image above is the distribution of various IS families across prokaryotic genomes.
+The image above shows the distribution of various IS families across prokaryotic genomes.
 
 ## About me
 

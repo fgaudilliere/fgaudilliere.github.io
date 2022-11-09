@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Msc in Biological Sciences** with a specialization in Complex Systems · ENS de Lyon · 2019-2021
-* **Bsc. in Biological Sciences** · ENS de Lyon · 2018-2019
+* **Bsc in Biological Sciences** · ENS de Lyon · 2018-2019
 * French preparatory class (BCPST) · Lycée Henri IV, Paris · 2016-2018
 
 Lab experience
@@ -54,7 +54,7 @@ Conferences
 ======
 <p style="margin-left: 40px"><b>YRLS Conference, Paris</b>
 <br>Flashtalk and poster presentation
-<br>Sequencing and analysis of *Klebsiella pneumoniae* genomes
+<br>Sequencing and analysis of <i>Klebsiella pneumoniae</i> genomes
 <br><i>June 2022</i></p>
 
 <p style="margin-left: 40px"><b>LGBT+ STEMinar</b>
