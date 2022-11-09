@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![](/images/timeline.png)
+
 Education
 ======
 * **Msc in Biological Sciences** with a specialization in Complex Systems · ENS de Lyon · 2019-2021
