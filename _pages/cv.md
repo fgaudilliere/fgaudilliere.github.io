@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-![](/images/timeline.png)
 
 Education
 ======
+* **Qlife Winter School: The Genomics of Transposable Elements** · PSL-Qlife · 2023
+* **Teaching courses** (Parcours Enseignement Supérieur renforcé) · Université Grenoble Alpes · 2022-2024
 * **MSc in Biological Sciences** with a specialization in Complex Systems · ENS de Lyon · 2019-2021
 * **BSc in Biological Sciences** · ENS de Lyon · 2018-2019
-* French preparatory class (BCPST) · Lycée Henri IV, Paris · 2016-2018
+* **BCPST** (French preparatory class) · Lycée Henri IV, Paris · 2016-2018
 
 Lab experience
 ======
@@ -50,10 +51,40 @@ Lab experience
 <br>Supervisor: Olivier Gandrillon
 <br><i>May 2019 — July 2019</i></p>
 
+Programming skills
+======
+
+* Python3
+* R
+* bash
+
+Languages
+======
+
+* English (C2 level - Cambridge Advanced English)
+* German (C1 level - Deutsches Sprachdiplom II)
+* French (native language)
+
+
 
 
 Conferences
 ======
+<p style="margin-left: 40px"><b>BactoGre, Grenoble</b>
+<br>Talk
+<br>Understanding the Evolutionary Dynamics of Insertion Sequences (PhD project and first results)
+<br><i>February 2023</i></p>
+
+<p style="margin-left: 40px"><b>Qlife Winter School: The Genomics of Transposable Elements (Paris)</b>
+<br>Poster presentation
+<br>Understanding the Evolutionary Dynamics of Insertion Sequences (PhD project)
+<br><i>February 2023</i></p>
+
+<p style="margin-left: 40px"><b>Alphy-AIEM Joint Meeting, Grenoble</b>
+<br>Talk
+<br>Understanding the Evolutionary Dynamics of Insertion Sequences (PhD project and first results)
+<br><i>January 2023</i></p>
+
 <p style="margin-left: 40px"><b>YRLS Conference, Paris</b>
 <br>Flashtalk and poster presentation
 <br>Sequencing and analysis of <i>Klebsiella pneumoniae</i> genomes
@@ -69,7 +100,12 @@ Conferences
 Teaching & Scientific Outreach
 ======
 
-<p style="margin-left: 40px"><b>Genomics workshop for the surveillance of antimicrobial resistance, institut Pasteur</b>
+<p style="margin-left: 40px"><b>Experimental Project in Biology</b>
+<br>I am supervising students as they try to come up with their own experimental project to study an aspect of diauxic growth in <i> E. coli </i>. At the end of the semester, I will help them conduct their lab experiments and interpret their results.
+<br><i>2023</i></p>
+
+
+<p style="margin-left: 40px"><b>Genomics workshop for the surveillance of antimicrobial resistance, Institut Pasteur</b>
 <br>I taught a course about insertion sequences and helped the students while they learned how to use various genomics and epidemiological tools.
 <br><i>June 2022</i></p>
 
@@ -86,17 +122,9 @@ Teaching & Scientific Outreach
 <br><i>2018-2020</i></p>
 
 
-Programming skills
+
+Other
 ======
 
-* Python3
-* R
-* bash
-
-
-Languages
-======
-
-* English (C2 level - Cambridge Advanced English)
-* German (C1 level - Deutsches Sprachdiplom II)
-* French (native language)
+* Student representative at the EDISCE doctoral school (2022-2024)
+* Student representative for the teaching courses (Parcours Enseignement Supérieur)
