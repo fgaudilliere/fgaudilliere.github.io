@@ -10,13 +10,14 @@ redirect_from:
 {% include base_path %}
 
 
-Education
+Education and courses
 ======
-* **Qlife Winter School: The Genomics of Transposable Elements** · PSL-Qlife · February 2023
-* **Teaching courses** (Parcours Enseignement Supérieur renforcé) · Université Grenoble Alpes · 2022-2024
 * **MSc in Biological Sciences** with a specialization in Complex Systems · ENS de Lyon · 2019-2021
 * **BSc in Biological Sciences** · ENS de Lyon · 2018-2019
 * **BCPST** (French preparatory class) · Lycée Henri IV, Paris · 2016-2018
+
+* **Qlife Winter School: The Genomics of Transposable Elements** · PSL-Qlife · February 2023
+* **Teaching courses** (Parcours Enseignement Supérieur renforcé) · Université Grenoble Alpes · 2022-2024
 
 Lab experience
 ======
