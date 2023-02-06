@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* **Qlife Winter School: The Genomics of Transposable Elements** · PSL-Qlife · 2023
+* **Qlife Winter School: The Genomics of Transposable Elements** · PSL-Qlife · February 2023
 * **Teaching courses** (Parcours Enseignement Supérieur renforcé) · Université Grenoble Alpes · 2022-2024
 * **MSc in Biological Sciences** with a specialization in Complex Systems · ENS de Lyon · 2019-2021
 * **BSc in Biological Sciences** · ENS de Lyon · 2018-2019
@@ -101,7 +101,7 @@ Teaching & Scientific Outreach
 ======
 
 <p style="margin-left: 40px"><b>Experimental Project in Biology</b>
-<br>I am supervising students as they try to come up with their own experimental project to study an aspect of diauxic growth in <i> E. coli </i>. At the end of the semester, I will help them conduct their lab experiments and interpret their results.
+<br>I am supervising students as they try to come up with their own experimental project to study an aspect of diauxic growth in <i> E. coli</i>. At the end of the semester, I will help them conduct their lab experiments and interpret their results.
 <br><i>2023</i></p>
 
 
