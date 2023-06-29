@@ -102,9 +102,16 @@ Teaching & Scientific Outreach
 ======
 
 <p style="margin-left: 40px"><b>Experimental Project in Biology</b>
-<br>I am supervising students as they try to come up with their own experimental project to study an aspect of diauxic growth in <i> E. coli</i>. At the end of the semester, I will help them conduct their lab experiments and interpret their results.
+<br>I supervised second-year students as they came up with their own experimental project to study an aspect of diauxic growth in <i> E. coli</i>. At the end of the semester, I helped them conduct their lab experiments and interpret their results.
 <br><i>2023</i></p>
 
+<p style="margin-left: 40px"><b>Evolution Tutorials</b>
+<br>I taught first-year students how to build and interpret phylogenetic trees.
+<br><i>2023</i></p>
+
+<p style="margin-left: 40px"><b>Microbiology Tutorials</b>
+<br>I prepared first-year students for microbiology practicals. 
+<br><i>2023</i></p>
 
 <p style="margin-left: 40px"><b>Genomics workshop for the surveillance of antimicrobial resistance, Institut Pasteur</b>
 <br>I taught a course about insertion sequences and helped the students while they learned how to use various genomics and epidemiological tools.
@@ -127,5 +134,5 @@ Teaching & Scientific Outreach
 Other
 ======
 
-* Student representative at the EDISCE doctoral school (2022-2024)
+* Student representative at the EDISCE graduate school (2022-2024). Member of the PhD grant awarding panel.
 * Student representative for the teaching courses (Parcours Enseignement Supérieur)
