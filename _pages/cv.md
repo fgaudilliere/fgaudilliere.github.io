@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Education and courses
+Education
 ======
 * **MSc in Biological Sciences** with a specialization in Complex Systems · ENS de Lyon · 2019-2021
 * **BSc in Biological Sciences** · ENS de Lyon · 2018-2019
@@ -19,8 +19,13 @@ Education and courses
 * **Qlife Winter School: The Genomics of Transposable Elements** · PSL-Qlife · February 2023
 * **Teaching courses** (Parcours Enseignement Supérieur renforcé) · Université Grenoble Alpes · 2022-2024
 
-Lab experience
+Lab Experience
 ======
+
+<p style="margin-left: 40px"><b>Visiting student at the University of Texas at Austin</b>
+<br>IS evolutionary dynamics in the Long-Term Evolution Experiment (LTEE)
+<br>Barrick lab
+<br><i>September 2023 — December 2023</i></p>
 
 <p style="margin-left: 40px"><b>Internship at the Institut Pasteur, Paris</b>
 <br>Nanopore sequencing for the surveillance of antimicrobial resistance
@@ -52,12 +57,18 @@ Lab experience
 <br>Supervisor: Olivier Gandrillon
 <br><i>May 2019 — July 2019</i></p>
 
-Programming skills
+Programming Skills
 ======
 
 * Python3
 * R
 * bash
+
+Sequencing Experience
+======
+
+* Nanopore sequencing of full bacterial genomes
+* Illumina sequencing: TnSeq & DNA hybridization capture
 
 Languages
 ======
@@ -110,7 +121,7 @@ Teaching & Scientific Outreach
 <br><i>2023</i></p>
 
 <p style="margin-left: 40px"><b>Microbiology Tutorials</b>
-<br>I prepared first-year students for microbiology practicals. 
+<br>I prepared first-year students for microbiology practicals.
 <br><i>2023</i></p>
 
 <p style="margin-left: 40px"><b>Genomics workshop for the surveillance of antimicrobial resistance, Institut Pasteur</b>
@@ -131,7 +142,7 @@ Teaching & Scientific Outreach
 
 
 
-Other
+Student Representation
 ======
 
 * Student representative at the EDISCE graduate school (2022-2024). Member of the PhD grant awarding panel.
