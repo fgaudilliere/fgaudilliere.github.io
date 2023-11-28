@@ -19,7 +19,9 @@ If this sounds interesting to you, feel free to reach out to discuss my research
 
 ![](/images/full_tree_digIS_data_low_res.png)
 
-The image above shows the distribution of various IS families across prokaryotic genomes.
+This shows the dynamics of IS-mediated mutations in the [Long-Term Evolution Experiment](https://the-ltee.org/).
+
+![](/images/IS_evolution_circular_optimized_sped_up1.gif)
 
 ## About me
 
