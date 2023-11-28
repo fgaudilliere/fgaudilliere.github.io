@@ -19,9 +19,11 @@ If this sounds interesting to you, feel free to reach out to discuss my research
 
 ![](/images/full_tree_digIS_data_low_res.png)
 
-This shows the dynamics of IS-mediated mutations in the [Long-Term Evolution Experiment](https://the-ltee.org/).
+The image above shows the distribution of various IS families across prokaryotic genomes.
 
 ![](/images/IS_evolution_circular_optimized_sped_up1.gif)
+
+This animation shows the dynamics of IS-mediated mutations in the [Long-Term Evolution Experiment](https://the-ltee.org/).
 
 ## About me
 
