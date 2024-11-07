@@ -27,6 +27,6 @@ This animation shows the dynamics of IS-mediated mutations in the [Long-Term Evo
 
 ## About me
 
-In my spare time, I do amateur photography (you can see a few samples [here](instagram.com/floragaudilliere/)). I also play the violin (and sometimes the saxophone, much to my neighbour's dismay) and watch a lot of movies (not necessarily good ones).
+In my spare time, I do amateur photography (you can see a few samples [here](https://www.instagram.com/floragaudilliere/)). I also play the violin (and sometimes the saxophone, much to my neighbour's dismay) and watch a lot of movies (not necessarily good ones).
 
 ![](/images/doodle.png)
