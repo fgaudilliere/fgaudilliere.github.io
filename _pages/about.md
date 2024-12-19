@@ -25,10 +25,10 @@ The image above shows the distribution of various IS families across prokaryotic
 
 ![](/images/IS_evolution_circular_optimized_sped_up1.gif)
 
-This animation shows the dynamics of IS-mediated mutations in the [Long-Term Evolution Experiment](https://the-ltee.org/).
+This animation shows the dynamics of IS-mediated mutations in the different bacterial populations from the [Long-Term Evolution Experiment](https://the-ltee.org/). Each circle is a map of the genome that shows where IS elements inserted in that population.
 
 ## About me
 
-In my spare time, I do amateur photography (you can see a few samples [here](https://www.instagram.com/floragaudilliere/)). I also play the violin and sometimes the saxophone (much to my neighbour's dismay) and watch a lot of movies (not necessarily good ones).
+In my spare time, I do amateur photography (you can see a few samples [here](https://www.instagram.com/floragaudilliere/)). I also play the saxophone with the [Contrefa'son](https://www.instagram.com/contrefa.son/) and I'm an aikidoka.
 
 ![](/images/doodle.png)
