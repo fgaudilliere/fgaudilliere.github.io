@@ -82,6 +82,22 @@ Languages
 
 Conferences
 ======
+
+<p style="margin-left: 40px"><b>Alphy-AIEM conference, Lyon</b>
+<br>Talk
+<br>Unwelcome Guests: Genome Ecology of a Class of Mobile Genetic Elements
+<br><i>February 2025</i></p>
+
+<p style="margin-left: 40px"><b>SFE2 conference, Lyon</b>
+<br>Poster
+<br>Unwelcome Guests: Genome Ecology of a Class of Mobile Genetic Elements
+<br><i>October 2024</i></p>
+
+<p style="margin-left: 40px"><b>SFM conference, Lille</b>
+<br>Poster
+<br>Characterizing the Evolutionary Dynamics of Insertion Sequences
+<br><i>October 2024</i></p>
+
 <p style="margin-left: 40px"><b>BactoGre, Grenoble</b>
 <br>Talk
 <br>Understanding the Evolutionary Dynamics of Insertion Sequences (PhD project and first results)
@@ -114,15 +130,15 @@ Teaching & Scientific Outreach
 
 <p style="margin-left: 40px"><b>Experimental Project in Biology</b>
 <br>I supervised second-year students as they came up with their own experimental project to study an aspect of diauxic growth in <i> E. coli</i>. At the end of the semester, I helped them conduct their lab experiments and interpret their results.
-<br><i>2023</i></p>
+<br><i>2023-2024 (two years in a row)</i></p>
 
 <p style="margin-left: 40px"><b>Evolution Tutorials</b>
 <br>I taught first-year students how to build and interpret phylogenetic trees.
-<br><i>2023</i></p>
+<br><i>2023-2024 (two years in a row)</i></p>
 
 <p style="margin-left: 40px"><b>Microbiology Tutorials</b>
 <br>I prepared first-year students for microbiology practicals.
-<br><i>2023</i></p>
+<br><i>2023-2024 (two years in a row)</i></p>
 
 <p style="margin-left: 40px"><b>Genomics workshop for the surveillance of antimicrobial resistance, Institut Pasteur</b>
 <br>I taught a course about insertion sequences and helped the students while they learned how to use various genomics and epidemiological tools.
