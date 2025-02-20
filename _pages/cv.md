@@ -60,9 +60,9 @@ Lab Experience
 Programming Skills
 ======
 
-* Python3
-* R
-* bash
+* Python3 (main language used for bioinformatics scripts)
+* R (RNAseq and ChipSeq analysis)
+* bash (navigating UNIX systems, use of command-line programs)
 
 Sequencing Experience
 ======
@@ -83,9 +83,14 @@ Languages
 Conferences
 ======
 
+<p style="margin-left: 40px"><b>BiGre Days, Grenoble</b>
+<br>Talk
+<br>Unwelcome Guests: Characterizing the Ecological Niche of Transposable Elements in Prokaryotic Genomes
+<br><i>February 2025</i></p>
+
 <p style="margin-left: 40px"><b>Alphy-AIEM conference, Lyon</b>
 <br>Talk
-<br>Unwelcome Guests: Genome Ecology of a Class of Mobile Genetic Elements
+<br>Unwelcome Guests: Characterizing the Ecological Niche of Transposable Elements in Prokaryotic Genomes
 <br><i>February 2025</i></p>
 
 <p style="margin-left: 40px"><b>SFE2 conference, Lyon</b>
