@@ -12,6 +12,7 @@ redirect_from:
 
 Education
 ======
+* **PhD in Prokaryotic Genomics** · Université Grenoble Alpes · 2022-2025
 * **MSc in Biological Sciences** with a specialization in Complex Systems · ENS de Lyon · 2019-2021
 * **BSc in Biological Sciences** · ENS de Lyon · 2018-2019
 * **BCPST** (French preparatory class) · Lycée Henri IV, Paris · 2016-2018
@@ -21,6 +22,12 @@ Education
 
 Lab Experience
 ======
+
+<p style="margin-left: 40px"><b>PhD student at Université Grenoble Alpes</b>
+<br>A transposon ecology approach to insertion sequence distributions in prokaryotic genomes</i>
+<br>TIMC - TrEE
+<br><i>September 2022 — August 2026</i></p>
+
 
 <p style="margin-left: 40px"><b>Visiting student at the University of Texas at Austin</b>
 <br>IS evolutionary dynamics in the Long-Term Evolution Experiment (LTEE)
@@ -83,6 +90,22 @@ Languages
 Conferences
 ======
 
+<p style="margin-left: 40px"><b>Barcelona, Spain</b>
+<br>Poster
+<br>Unwelcome Guests: Characterizing the Ecological Niche of Transposable Elements in Prokaryotic Genomes
+<br><i>August 2025</i></p>
+
+<p style="margin-left: 40px"><b>Toronto, Canada</b>
+<br>Transposon Ecology Workshop - Invited Talk
+<br>Unwelcome Guests: Characterizing the Ecological Niche of Transposable Elements in Prokaryotic Genomes
+<br><i>August 2025</i></p>
+
+<p style="margin-left: 40px"><b>CBI, Toulouse</b>
+<br>Invited Talk
+<br>Unwelcome Guests: Characterizing the Ecological Niche of Transposable Elements in Prokaryotic Genomes
+<br><i>March 2025</i></p>
+
+
 <p style="margin-left: 40px"><b>BiGre Days, Grenoble</b>
 <br>Talk
 <br>Unwelcome Guests: Characterizing the Ecological Niche of Transposable Elements in Prokaryotic Genomes
@@ -132,6 +155,10 @@ Conferences
 
 Teaching & Scientific Outreach
 ======
+
+<p style="margin-left: 40px"><b>Assistant professor in Biological Sciences</b>
+<br>Université Grenoble Alpes
+<br><i>2025-2026</i></p>
 
 <p style="margin-left: 40px"><b>Experimental Project in Biology</b>
 <br>I supervised second-year students as they came up with their own experimental project to study an aspect of diauxic growth in <i> E. coli</i>. At the end of the semester, I helped them conduct their lab experiments and interpret their results.

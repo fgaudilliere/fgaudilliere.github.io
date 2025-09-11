@@ -11,12 +11,12 @@ Publications
 ======
 
 <p style="margin-left: 40px"><b>Unwelcome Guests: Genome Ecology of Insertion Sequence Elements</b>  <i>(temporary title)</i>
-<br>F. Gaudillière, S. Abby, S. Chobert, T. Hindré, I. Junier
+<br>F. Gaudillière, S. Abby, T. Hindré, I. Junier
 <br><i>In prep</i></p>
 
 
-<p style="margin-left: 40px"><b>Distribution of Insertion Sequence Elements across Prokaryotic Genomes</b>  <i>(temporary title)</i>
-<br>F. Gaudillière, S. Abby, S. Chobert, T. Hindré, I. Junier
+<p style="margin-left: 40px"><b>Analysis of Insertion Sequence Communities across Prokaryotic Genomes</b>  <i>(temporary title)</i>
+<br>F. Gaudillière, S. Abby, T. Hindré, I. Junier
 <br><i>In prep</i></p>
 
 <p style="margin-left: 40px"><b>Étude de la motivation étudiante dans des enseignements de type travaux pratiques dans le supérieur : une approche pluridisciplinaire</b>
