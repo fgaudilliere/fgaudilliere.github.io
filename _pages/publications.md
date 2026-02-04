@@ -10,12 +10,12 @@ author_profile: true
 Publications
 ======
 
-<p style="margin-left: 40px"><b>Unwelcome Guests: Characterizing the Ecological Niche of Insertion Sequence Elements in Prokaryotic Genomes</b>
+<p style="margin-left: 40px"><b>Unwelcome guests: characterizing the ecological niche of insertion sequence elements in prokaryotic genomes</b>
 <br>F. Gaudillière, S. Abby, T. Hindré, I. Junier
-<br><i>In review, ISME Journal (temporary version available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.07.22.666184v1))</i></p>
+<br><i>In review, ISME Journal (temporary version available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.07.22.666184v1) )</i></p>
 
 
-<p style="margin-left: 40px"><b>Analysis of Insertion Sequence Communities across Prokaryotic Genomes</b>  <i>(temporary title)</i>
+<p style="margin-left: 40px"><b>Analysis of insertion sequence communities across prokaryotic genomes</b>  <i>(temporary title)</i>
 <br>F. Gaudillière, S. Abby, T. Hindré, I. Junier
 <br><i>In prep</i></p>
 
