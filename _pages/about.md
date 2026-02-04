@@ -11,7 +11,7 @@ redirect_from:
 
 ## About my research
 
-I recently defended and I currently hold a temporary assistant professor position at Grenoble Alpes University (France). I am a member of the [TrEE team](https://tree-timc.github.io/compbio/) at [TIMC](https://www.timc.fr/en).
+I recently defended and I currently hold a temporary position as an assistant professor at Grenoble Alpes University (France). I am a member of the [TrEE team](https://tree-timc.github.io/compbio/) at [TIMC](https://www.timc.fr/en).
 
 My research focuses on **insertion sequences** (IS), which are the simplest class of prokaryotic transposable elements: they only code for a transposase, the enzyme that catalyzes their movement within genomes. I'm interested in the evolutionary dynamics of these elements and in how they interact with the rest of the genome.
 
